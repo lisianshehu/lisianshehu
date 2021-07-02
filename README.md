@@ -4,6 +4,7 @@ I am a computer engineering student at the University of Central Florida that is
 - 🔭 Working on my senior design project of developing an autonomous robot using ROS2 
 - 🌱 Learning about embedded systems, robotics and continuing to improve software engineering skills
 <br>
+
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lisian-shehu/)
 <!-- [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)
@@ -12,6 +13,7 @@ I am a computer engineering student at the University of Central Florida that is
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694) -->
 <br>
 <br>
+
 ## Expertise
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
